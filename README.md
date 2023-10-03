@@ -1,6 +1,6 @@
 # Projeto de Jogo Educacional em Python
 
-Este é o README do projeto de jogo educacional em Python, desenvolvido como parte do PCA (Projeto de Conclusão de Aprendizagem) na área da Educação. O objetivo deste projeto é criar um jogo educacional totalmente funcional que visa engajar os alunos e estimular habilidades como concentração e criatividade, além de integrar diversas dimensões do conhecimento.
+Este é o README do projeto de jogo educacional em Python, desenvolvido como parte do PCA (Projeto de Conclusão de Aprendizagem) na área da Educação. O objetivo deste projeto é criar um jogo educacional totalmente funcional que visa engajar os alunos e estimular habilidades como concentração e raciocínio lógico de operações.
 
 ## Visão Geral
 
@@ -14,15 +14,11 @@ O jogo educacional em Python incluirá as seguintes funcionalidades:
 
 1. **Interface de Usuário Intuitiva:** O jogo terá uma interface de usuário simples e intuitiva para facilitar o acesso e a jogabilidade.
 
-2. **Perguntas Educacionais:** O jogo apresentará perguntas educacionais relacionadas à temática escolhida. As perguntas podem ser de múltipla escolha, verdadeiro ou falso, ou até mesmo perguntas abertas que requerem respostas escritas.
+2. **Perguntas Educacionais:** O jogo apresentará perguntas educacionais relacionadas ao desenvolvimento lógico do usuário, com perguntas abertas que requerem respostas escritas.
 
 3. **Feedback Interativo:** O jogador receberá feedback imediato sobre suas respostas. Isso ajudará a aprender com os erros e a consolidar o conhecimento.
 
 4. **Sistema de Pontuação:** O jogo atribuirá pontos aos jogadores com base em seu desempenho nas perguntas. Os jogadores poderão acompanhar seu progresso e tentar superar seus próprios recordes.
-
-5. **Níveis de Dificuldade:** O jogo pode incluir diferentes níveis de dificuldade para atender a uma variedade de públicos-alvo, desde crianças até adultos.
-
-6. **Recursos de Aprendizagem:** Além das perguntas, o jogo pode incluir recursos de aprendizagem, como dicas e explicações detalhadas para cada pergunta.
 
 ## Requisitos de Desenvolvimento
 
@@ -50,6 +46,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE.md), o que significa 
 
 ## Contato
 
-Para mais informações sobre este projeto, entre em contato com [seu nome e e-mail].
+Para mais informações sobre este projeto, entre em contato com [samya-beatriz@hotmail.com].
 
 Agradecemos por se interessar por este projeto de jogo educacional em Python! Esperamos que ele possa contribuir positivamente para o campo da educação e proporcionar uma experiência de aprendizagem divertida para os alunos.
